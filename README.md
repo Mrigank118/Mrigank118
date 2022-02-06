@@ -8,11 +8,11 @@
 <br>
 <br>
 
-<h3>~ 🔭 I’m currently working on = LazyLofi 1.0</h3>
-<h3>~ 🌱 I’m currently learning = React.js, Angular, Node.js** </h3>
-<h3>~ 💬 Ask me about = Front-End Collabs, Fixing Issues, Queries, UI Ideas :) </h3>
-<h3>~ 📫 How to reach me = mrigank.11.8@gmail.com</h3>
-<h3>~ ⚡ Fun fact = I'm Coder I don't have a Life</h3>
+<h3>> 🔭 I’m currently working on = LazyLofi 1.0</h3>
+<h3>> 🌱 I’m currently learning = React.js, Angular, Node.js** </h3>
+<h3>> 💬 Ask me about = Front-End Collabs, Fixing Issues, Queries, UI Ideas :) </h3>
+<h3>> 📫 How to reach me = mrigank.11.8@gmail.com or Use Linkedin, Instagram, Twitter</h3>
+<h3>> ⚡ Fun fact = I'm Coder I don't have a Life</h3>
 <br>
 <br>
 <h2 align="left">Connect with me:</h2>
