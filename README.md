@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mrigank Singh</h1>
 <h3 align="center">A Front-End Web-Developer from India</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhomer-any-key-wheres-the-key-gif-12793542&psig=AOvVaw3RR7Hhk8PeDIKADGcwaI6g&ust=1644250374352000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiOkp-86_UCFQAAAAAdAAAAABA3">
+
 - 🔭 I’m currently working on **LazyLofi 1.0**
 
 - 🌱 I’m currently learning **React.js, Angular, Node.js**
