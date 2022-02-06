@@ -5,7 +5,7 @@
   <img width="460" height="300" src="homercodes.gif">
 </p>
 
-- 🔭 I’m currently working on **LazyLofi 1.0**
+<h3>- 🔭 I’m currently working on **LazyLofi 1.0**</h3>
 
 - 🌱 I’m currently learning **React.js, Angular, Node.js**
 
