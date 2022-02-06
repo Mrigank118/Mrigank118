@@ -2,7 +2,7 @@
 <h3 align="center">A Front-End Web-Developer from India</h3>
 
 <p align="center">
-  <img width="460" height="300" src="homercode.gif">
+  <img width="460" height="300" src="homercodes.gif">
 </p>
 
 - 🔭 I’m currently working on **LazyLofi 1.0**
