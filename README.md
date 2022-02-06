@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrigank Singh</h1>
 <h3 align="center">A Front-End Web-Developer from India</h3>
 
-<img src="homercodes.gif">
+<img margin-left:40px; src="homercodes.gif">
 
 - 🔭 I’m currently working on **LazyLofi 1.0**
 
