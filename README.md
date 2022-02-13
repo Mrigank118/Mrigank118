@@ -30,6 +30,11 @@
 <a href="https://instagram.com/me_noctice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_noctice" height="30" width="40" /></a>
 </p>
 
+
+
+
+![Mrigank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 <p align="center">——————————————————————————————————————————————————————</p>
   <h2 align="left">Languages and Tools:</h2>
 <p align="left">
