@@ -46,3 +46,6 @@
 
 
 ![Mrigank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigank118&theme=merko&show_icons=true)
+
+
+[![Mrigank Singh's stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrigank118)](https://github.com/mrigank118/github-readme-stats)
