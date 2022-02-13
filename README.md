@@ -33,7 +33,7 @@
 
 
 
-![Mrigank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
 <p align="center">——————————————————————————————————————————————————————</p>
   <h2 align="left">Languages and Tools:</h2>
@@ -43,3 +43,6 @@
 </p>
 
 <p align="center">——————————————————————————————————————————————————————</p>
+
+
+![Mrigank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigank118&theme=merko&show_icons=true)
