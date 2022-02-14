@@ -8,7 +8,7 @@
   <img align="right" width="450" height="260" src="homercodes.gif">
 </p>
 
-<p><h3>I am Mrigank Singh a Web-Development Enthusiast currently a Front-end Developer, learning new stuff like Node.js and MongoDB to make my place in Full-stack Development. I love learning new things, making useful tools, Web-apps, Web-sites, Javascript Games.</h3></p>
+<p><h3>I am Mrigank Singh a Web-Development Enthusiast currently a Front-end Developer, learning new stuff like Node.js and MongoDB to make my place in Full-stack Development. I love learning new things, making useful tools, Web-sites, Javascript Games.</h3></p>
 
 
 <p><h3> HEHE! I Love memes as you can see 😆 Specially when they are related to coding. Follow me and my work. <br> <br>See ya....</h3></p>
