@@ -11,12 +11,12 @@
 <p><h3>I am Mrigank Singh a Web-Development Enthusiast currently a Front-end Developer, learning new stuff like Node.js and MongoDB to make my place in Full-stack Development. I love learning new things, making useful tools, Web-sites, Javascript Games.</h3></p>
 
 
-<p><h3> HEHE! I Love memes as you can see 😆 Specially when they are related to coding. Follow me and my work. <br> <br>See ya....</h3></p>
+<p><h3>I Love memes 😆 Specially when they are related to coding. Follow me and my work. <br> <br>See ya....</h3></p>
 <br>
 <p align="center">——————————————————————————————————————————————————————</p>
 
 
-<h3>> 🔭 I’m currently working on = LazyLofi 1.0</h3>
+
 <h3>> 🌱 I’m currently learning = React.js, Angular, Node.js</h3>
 <h3>> 💬 Ask me about = Front-End Collabs, Fixing Issues, Queries, UI Ideas :) </h3>
 <h3>> 📫 How to reach me = mrigank.11.8@gmail.com or Use Linkedin, Instagram, Twitter</h3>
@@ -25,9 +25,9 @@
 <p align="center">——————————————————————————————————————————————————————</p>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/menoctice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="30" width="40" /></a>
+<a href="https://twitter.com/mrigankwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mriganksingh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11/" height="30" width="40" /></a>
-<a href="https://instagram.com/me_noctice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_noctice" height="30" width="40" /></a>
+<a href="https://instagram.com/mrigankwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_noctice" height="30" width="40" /></a>
 </p>
 
 
