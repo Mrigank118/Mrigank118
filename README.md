@@ -22,13 +22,7 @@
 <h3>> 📫 How to reach me = mrigank.11.8@gmail.com or Use Linkedin, Instagram, Twitter</h3>
 <h3>> ⚡ I don't have a Life</h3>
 
-<p align="center">——————————————————————————————————————————————————————</p>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/mrigankwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="menoctice" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mriganksingh11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mriganksingh11" height="30" width="40" /></a>
-<a href="https://instagram.com/mrigankwastaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me_noctice" height="30" width="40" /></a>
-</p>
+
 
 
 
