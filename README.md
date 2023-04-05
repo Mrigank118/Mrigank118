@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrigank Singh</h1>
-<h2 align="center">A Front-End Web-Developer from India 🇮🇳</h2>
+<h2 align="center">A Front-End Web-Developer from India</h2>
 
 <p align="center">——————————————————————————————————————————————————————</p>
 
