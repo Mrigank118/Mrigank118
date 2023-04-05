@@ -4,12 +4,11 @@
 
 
 <p align="center">
- 
-  <img align="right" width="400" height="230" src="homercodes.gif">
+  <img align="center" width="400" height="230" src="homercodes.gif">
 </p>
 <p>
 </p>
-<p><h3>A Web-Development Enthusiast currently a Front-end Developer, learning new stuff to make my place in Full-stack Development. Loves learning new things, making useful tools, Websites, Games.</h3></p>
+
 
 
 <p><h3>This user loves Memes 😆 Specially when they are related to coding. Follow me and my work. <br> <br>See ya....</h3></p>
