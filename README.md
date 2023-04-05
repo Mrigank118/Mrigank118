@@ -18,7 +18,7 @@
 
 
 # 💫 About Me:
-🙋‍♂️ A Web-Developer and Designer. Loves learning all kinds of stuff <br>💡 I design useful tools, Websites, Games and Webapps. <br>🌱 Currently learning = Backend Development  <br>❤️ Feel free to reach me out on LinkedIn, Instagram, or Twitter<br>🎧 Coding while listening to music is definetly therapy<br>🍕 Completely random but I like cooking  :)
+🙋‍♂️ A Web-Developer and Designer. Loves learning all kinds of stuff <br>💡 I design useful tools, Websites, Games and Webapps. <br>🌱 Currently learning = Backend Developement  <br>❤️ Feel free to reach me out on LinkedIn, Instagram, or Twitter<br>🎧 Coding while listening to music is definitely therapy<br>🍕 Completely random but I like cooking and memes :)
 
 
 
@@ -32,14 +32,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mrigank118&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
 
 
-![Mrigank Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigank118&theme=merko&show_icons=true)
 
 
 
