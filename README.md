@@ -7,7 +7,8 @@
  
   <img align="right" width="400" height="230" src="homercodes.gif">
 </p>
-
+<p>
+</p>
 <p><h3>I'm Mrigank Singh a Web-Development Enthusiast currently a Front-end Developer, learning new stuff to make my place in Full-stack Development. I love learning new things, making useful tools, Websites,Games.</h3></p>
 
 
