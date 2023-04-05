@@ -2,7 +2,7 @@
 <h2 align="center">A Front-End Web-Developer from India</h2>
 
 
-
+<br> 
 <p align="center">
   <img align="right" width="400" height="230" src="homercodes.gif">
 </p>
