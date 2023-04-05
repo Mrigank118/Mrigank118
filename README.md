@@ -9,7 +9,7 @@
 </p>
 <p>
 </p>
-<p><h3>I'm Mrigank Singh a Web-Development Enthusiast currently a Front-end Developer, learning new stuff to make my place in Full-stack Development. I love learning new things, making useful tools, Websites,Games.</h3></p>
+<p><h3>A Web-Development Enthusiast currently a Front-end Developer, learning new stuff to make my place in Full-stack Development. Loves learning new things, making useful tools, Websites, Games.</h3></p>
 
 
 <p><h3>This user loves Memes 😆 Specially when they are related to coding. Follow me and my work. <br> <br>See ya....</h3></p>
@@ -17,9 +17,8 @@
 
 
 
-<h3>> 🌱 Currently learning = React.js, Angular, Node.js</h3>
-<h3>> 💬 Ask me about = Front-End Collabs, Fixing Issues, Queries, UI Ideas :) </h3>
-<h3>> 📫 How to reach me = mrigank.11.8@gmail.com or Use Linkedin, Instagram, Twitter</h3>
+# 💫 About Me:
+🙋‍♂️ A Web-Developer and Designer. Loves learning all kinds of stuff <br>💡 I design useful tools, Websites, Games and Webapps. <br>🌱 Currently learning = Backend Development  <br>❤️ Feel free to reach me out on LinkedIn, Instagram, or Twitter<br>🎧 Coding while listening to music is definetly therapy<br>🍕 Completely random but I like cooking  :)
 
 
 
