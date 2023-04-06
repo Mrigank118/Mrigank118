@@ -22,7 +22,7 @@
 
 
 ## 💫 About Me:
-🙋‍♂️ A Web-Developer and Designer. Loves learning all kinds of stuff <br>💡 I design useful tools, Websites, Games and Webapps. <br>🌱 Currently learning = Backend Developement  <br>❤️ Feel free to reach me out on LinkedIn, Instagram, or Twitter<br>🎧 Coding while listening to music is definitely therapy<br>🍕 Completely random but I like cooking and memes :)
+### 🙋‍♂️ A Web-Developer and Designer. Loves learning all kinds of stuff <br>💡 I design useful tools, Websites, Games and Webapps. <br>🌱 Currently learning = Backend Developement  <br>❤️ Feel free to reach me out on LinkedIn, Instagram, or Twitter<br>🎧 Coding while listening to music is definitely therapy<br>🍕 Completely random but I like cooking and memes :)
 
 
 <br>
