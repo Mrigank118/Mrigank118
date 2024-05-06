@@ -1,7 +1,7 @@
 # Hi there, I'm Mrigank Singh 👋
 
 ## About Me:
-- 👨‍💻 Front-End Web Developer from India
+- 👨‍💻 A "Developer" from India
 - 🌱 Currently learning Backend Development
 - 💡 Passionate about creating useful tools, websites, games, and web apps
 - 😄 Loves coding memes and cooking
