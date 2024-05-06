@@ -1,4 +1,4 @@
-# Hi there, I'm Mrigank Singh 👋
+
 
 ![MrigankReadme](MrigankReadme.png)
 
