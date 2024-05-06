@@ -1,5 +1,7 @@
 # Hi there, I'm Mrigank Singh 👋
 
+![MrigankReadme](file:///C:/Users/mriga/Downloads/MrigankReadme.png)
+
 ## About Me:
 - 👨‍💻 A "Developer" from India
 - 🌱 Currently learning Backend Development
