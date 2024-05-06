@@ -38,8 +38,4 @@
 
 
 
-## Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrigank118&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
