@@ -1,6 +1,6 @@
 
 
-![MrigankReadme](MrigankReadme.png)
+![MrigankReadme](MrigankGIF.gif)
 
 <br>
 
