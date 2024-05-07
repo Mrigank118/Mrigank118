@@ -5,10 +5,10 @@
 <br>
 
 ## About Me:
-# 👨‍💻 A "Developer" from India
-# 🌱 Currently learning Backend Development
-# 💡 Passionate about creating useful tools, websites, games, and web apps
-# 😄 Loves coding memes and cooking
+### 👨‍💻 A "Developer" from India
+### 🌱 Currently learning Backend Development
+### 💡 Passionate about creating useful tools, websites, games, and web apps
+### 😄 Loves coding memes and cooking
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
