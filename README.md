@@ -6,10 +6,11 @@
 
 
 ## About Me:
-- 👨‍💻 A "Developer" from India
-- 🌱 Currently learning Backend Development
-- 💡 Passionate about creating useful tools, websites, games, and web apps
-- 😄 Loves coding memes and cooking
+- 👨‍💻 Developer from India, passionate about creating useful tools, websites, games, and web apps.
+- 🌱 Currently diving deep into Backend Development to craft robust and scalable solutions.
+- 💡 Constantly seeking new challenges and learning opportunities to expand my skill set and make a positive impact.
+- 😄 Enjoys infusing creativity into coding, whipping up coding memes, and experimenting with new recipes in the kitchen.
+- Let's connect and collaborate on exciting projects!
 
 <br>
 
