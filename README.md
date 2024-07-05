@@ -47,8 +47,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mrigankwastaken)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/mrigankwastaken)
 
+<br>
 
 ## Achievements:
-- 🏆 [Certificate in Beginners Track from KIET GDSC](https://drive.google.com/file/d/18c4AonD-EQuLAdVyrI__36DX8LgpS7B2/view?usp=drive_link)
+- 🏆 Certificate in Beginners Track from SprintHacks 2.0 [KIET GDSC](https://drive.google.com/file/d/18c4AonD-EQuLAdVyrI__36DX8LgpS7B2/view?usp=drive_link)
 
 
