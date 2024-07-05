@@ -6,7 +6,7 @@
 
 
 ## About Me:
-- 👨‍💻 Developer from India, passionate about creating useful tools, websites, games, and web apps.
+- 👨‍💻 MERN and Blockchain Developer from India, passionate about creating useful tools, websites, games, and web apps.
 - 🌱 Currently diving deep into Backend Development to craft robust and scalable solutions.
 - 💡 Constantly seeking new challenges and learning opportunities to expand my skill set and make a positive impact.
 - 😄 Enjoys infusing creativity into coding, whipping up coding memes, and experimenting with new recipes in the kitchen.
