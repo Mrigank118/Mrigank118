@@ -39,10 +39,11 @@
 <br>
 
 
-<br>
 
 ## Achievements:
 - 🏆 Certificate in Beginners Track from SprintHacks 2.0 [KIET GDSC](https://drive.google.com/file/d/18c4AonD-EQuLAdVyrI__36DX8LgpS7B2/view?usp=drive_link)
+  
+<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/mrigankwastaken)
