@@ -57,6 +57,8 @@
 [![Devfolio](https://img.shields.io/badge/Devfolio-%23555555.svg?logo=devfolio&logoColor=white&style=for-the-badge)](https://devfolio.co/@Mrigank118)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mrigankwastaken)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white&style=for-the-badge)](https://pinterest.com/mrigankwastaken)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Mrigank118)
+
 
 
 
