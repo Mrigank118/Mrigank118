@@ -6,8 +6,8 @@
 
 
 ## About Me:
-- 👨‍💻 MERN and DevOps Developer from India, passionate about creating useful tools, websites, games, and web apps.
-- 🌱 Currently diving deep into Web3 Development to craft robust and scalable solutions.
+- 👨‍💻 MERN Developer and DevOps enthusisat from India, passionate about creating useful tools, websites, games, and web apps.
+- 🌱 Currently diving deep into DevOps to craft robust and scalable solutions.
 - 💡 Constantly seeking new challenges and learning opportunities to expand my skill set and make a positive impact.
 - 😄 Enjoys infusing creativity into coding, whipping up coding memes, and experimenting with new recipes in the kitchen.
 - 👉 Let's connect and collaborate on exciting projects!
