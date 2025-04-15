@@ -76,7 +76,7 @@
 <br>
 
 ## Achievements:
-- 🏆 Certificate in Beginners Track from SprintHacks 2.0 [KIET GDSC](https://drive.google.com/file/d/18c4AonD-EQuLAdVyrI__36DX8LgpS7B2/view?usp=drive_link)
+- 🏆 Winner in Beginners Track from SprintHacks 2.0 [KIET GDSC](https://drive.google.com/file/d/18c4AonD-EQuLAdVyrI__36DX8LgpS7B2/view?usp=drive_link)
 
 <br>
 
