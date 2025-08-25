@@ -5,18 +5,8 @@
 ## About Me:
 - 👨‍💻 Developer from India, passionate about creating useful tools, websites, games, and web apps.
 - 🌱 Currently diving deep into DevOps to craft robust and scalable solutions.
-- 💡 Constantly seeking new challenges and learning opportunities to expand my skill set and make a positive impact.
-- 😄 Enjoys infusing creativity into coding, whipping up coding memes, and experimenting with new recipes in the kitchen.
-- 👉 Let's connect and collaborate on exciting projects!
 
 <br>
-
-Here’s an updated version of your tech stack with neutral, more mature tones to reflect a DevOps and cloud development focus:
-
----
-
-## Tech Stack
-Got it! I'll trim down the stack to focus on the more critical and modern tools for a DevOps/cloud development environment, including Docker, Kubernetes, Jenkins, and related tools. Here’s the updated, streamlined version:
 
 ---
 
